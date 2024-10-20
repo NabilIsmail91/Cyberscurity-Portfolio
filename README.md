@@ -9,7 +9,6 @@ I am an automotive graduate with technical and operational experience in various
 I am pivoting my career towards cybersecurity because the industry's ever-growing nature and constant opportunities for improvement greatly appeal to me. With my technical expertise and drive to excel in solving complex challenges, I am excited to contribute to safeguarding organizations while continuously learning and growing in this dynamic, fast-evolving field. My journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
